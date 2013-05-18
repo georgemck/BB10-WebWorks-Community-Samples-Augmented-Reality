@@ -17,10 +17,10 @@ My friend @Yosun on Twitter of AReality3D asked me to create a mobile AR app usi
 First, I used Google's Chrome Browser to verify the web application worked on the desktop. This got me thinking about the recently released BlackBerry 10 phones and their heavily touted "better than desktop Chrome" mobile browser, and I thought I would give it a try. Heading over to one of the JS Aruco demos, http://inmensia.com/files/aruco/debug-posit/debug-posit.html, in the Z10′s mobile browser, it worked. I decided to take things a bit further and actually build a mobile app rather than use the website application. I used WebWorks which is the BlackBerry-engineered Cordova PhoneGap distribution with deeper integration with device capabilities than Cordova on BlackBerry mobiles. The result of the test was this video, http://www.youtube.com/watch?v=XyiJ-p5ZSHY. Performance is a little slow and the video a bit hazy but I know it will perform better with some code optimization... (more http://www.georgemckinney.com/2013/05/mobile-augmented-reality-with-html5-on-blackberry-10)
 
 Special thanks to: 
-     -  Juan Mellado http://stackoverflow.com/users/1209430/juan-mellado
-     -  Mr.doob @mrdoob 
-     -  Justin Lee @triplez82 
-	 -  Yosun Chang @yosun
+     -  Juan Mellado https://plus.google.com/101388150953455772115
+     -  Mr.doob http://twitter.com/mrdoob 
+     -  Justin Lee http://twitter.com/triplez82 
+	 -  Yosun Chang http://twitter.com/yosun
 
 Enjoy,
 George @georgemck   
